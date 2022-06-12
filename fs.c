@@ -512,7 +512,7 @@ size_t mywrite(int myfd, const void *buf, size_t count)
     // }
     return myfiles[myfd].pos;
 }
-int mylseek(int myfd, int offset, int whence)
+off_t mylseek(int myfd, int offset, int whence)
 {
     if(myfiles[myfd].fd != myfd)
     {

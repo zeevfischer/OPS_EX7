@@ -88,7 +88,7 @@ size_t myread(int myfd, void *buf, size_t count);
 
 size_t mywrite(int myfd, const void *buf, size_t count);
 
-int mylseek(int myfd, int offset, int whence);
+off_t mylseek(int myfd, int offset, int whence);
 
 int myopendir(const char *name);
 
