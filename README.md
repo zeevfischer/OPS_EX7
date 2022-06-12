@@ -2,7 +2,8 @@
 ### Ex7
 ### written by: zeev fischer & almog david
 ### ids: 318960242 , 207749441
-### project link https://github.com/zeevfischer/OPS_EX5.git  
+### project link https://github.com/zeevfischer/OPS_EX7.git  
+
 הערה לבודקת:  
 בהתחלה נאמר לנו שיש כמה חתימות של פונקציות שאפשר לשנות/ לא לממש   
 אחרי זה נשלח מייל שאמר שכול החתימות צריכות להיות כמו שכתוב במטלה ואי אפשר לשנות   
